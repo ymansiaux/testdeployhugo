@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "locale": "en_GB",
-  "platform": "4.1.0",
+  "locale": "en_US",
+  "platform": "4.0.2",
   "metadata": {
     "appmode": "static",
     "primary_rmd": null,
@@ -15,37 +15,37 @@
       "checksum": "d41d8cd98f00b204e9800998ecf8427e"
     },
     "2015/01/01/lorem-ipsum/index.html": {
-      "checksum": "465678f8f2e09d5744bb10fbfc04674b"
+      "checksum": "452aa8765bd2d42294fb1712cb065885"
     },
     "2016/12/30/a-plain-markdown-post/index.html": {
-      "checksum": "ab6144ffd65c49b3915e6228d4134a54"
+      "checksum": "619773a8fc92a5f2529f03ce9a7d0a7f"
+    },
+    "2020/12/01/hello-r-markdown/index.html": {
+      "checksum": "c5ae4a68ee2aba1b0700eef729831f61"
     },
     "2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png": {
       "checksum": "05d12c5c5a2ba6b25f0b89468b3c07e6"
     },
-    "2020/12/01/hello-r-markdown/index.html": {
-      "checksum": "c8e52a8cb09fa498d4a3a510a1dc77ff"
-    },
     "about/index.html": {
-      "checksum": "be255f993353982fae789676f51c0377"
+      "checksum": "949d005d6329cd3ce60be9b880f64d5b"
     },
     "categories/index.html": {
-      "checksum": "cabd9f7beeaeef8b065f6ef989f47d94"
+      "checksum": "aabded51872f89d6d5d900aca961f8fd"
     },
     "categories/index.xml": {
       "checksum": "3f537ac180dffb0825da592a1d29ca28"
     },
     "categories/r/index.html": {
-      "checksum": "608107d151921988407238a6bec763dc"
+      "checksum": "7877fe728150954fb74ce430bd0b8392"
     },
     "categories/r/index.xml": {
-      "checksum": "87ec6ac948e6b0c15e34d553a3456ce5"
+      "checksum": "da9ed25bbe805759c7a9d8e23ef51cab"
     },
     "css/fonts.css": {
-      "checksum": "cc6945156b9b819ed64963c9f5fbf877"
+      "checksum": "ccbb619b1b4a0da63669b6260826680c"
     },
     "css/main.css": {
-      "checksum": "99ca91484e094e1b27589601d7e09505"
+      "checksum": "fc4c859dd757f3d591c158834cd6e0cc"
     },
     "favicon.ico": {
       "checksum": "13eff22c250a450812b3951974e5371e"
@@ -69,46 +69,46 @@
       "checksum": "62bcbc03fa3810678452164a5887ee11"
     },
     "index.html": {
-      "checksum": "4aa93d757273a728a546b8cc371a454f"
+      "checksum": "875ae56913667ce7192b125df09e1fdd"
     },
     "index.xml": {
-      "checksum": "f5eaa26aabc9e4b519931e2facd04f0a"
+      "checksum": "346ec9a2cc4ae37caba179984a6963f2"
     },
     "js/math-code.js": {
-      "checksum": "d88ebfa840322f1e9b4089b7aa3a9341"
+      "checksum": "4f774e881fd5f2558e9e5bf698065654"
     },
     "post/index.html": {
-      "checksum": "8f49402a44331efc13e37b3fce3fd67b"
+      "checksum": "238f7c708dc191b09e7d8539dfbde454"
     },
     "post/index.xml": {
-      "checksum": "4335533256cc5219514189658f08c08a"
+      "checksum": "4df4f856cd2701b478f64456a275578a"
     },
     "sitemap.xml": {
       "checksum": "febaf15a3b22d22d1151053a46ab370b"
     },
     "tags/index.html": {
-      "checksum": "5933ffe5226babeb40f058984347bd7b"
+      "checksum": "655b6e9156377a63dfd1592eb809e68c"
     },
     "tags/index.xml": {
       "checksum": "f557ebd93c3975d5d6a5e3406a525071"
     },
     "tags/plot/index.html": {
-      "checksum": "91b788de970962d3e09edd9b5bf068f3"
+      "checksum": "d8de393d85573c691e7bb8eb4fdcc9c8"
     },
     "tags/plot/index.xml": {
-      "checksum": "60c38523e3c61849735c61b44215be29"
+      "checksum": "82150601cc50ecd16aa194b8c5bf062c"
     },
     "tags/r-markdown/index.html": {
-      "checksum": "6866329d3afd7851d51dbb15fa2a931f"
+      "checksum": "1966fa4a31e62796b8909c9445a0986f"
     },
     "tags/r-markdown/index.xml": {
-      "checksum": "5bc278fae29702bc2344bf558821a702"
+      "checksum": "7eeffd4d123c4d22b7dfef683d276133"
     },
     "tags/regression/index.html": {
-      "checksum": "2ffb483005260e771ec27768089447be"
+      "checksum": "0cbb75fbe7a59b474c8b6a29b6b9e640"
     },
     "tags/regression/index.xml": {
-      "checksum": "f6318a9a1833529638e5581b8ba27888"
+      "checksum": "d7a8b73bd897bd52d9664a561ade13e8"
     }
   },
   "users": null
