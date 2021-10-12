@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "locale": "en_GB",
+  "platform": "4.1.0",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "index.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    ".gitkeep": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "2015/01/01/lorem-ipsum/index.html": {
+      "checksum": "465678f8f2e09d5744bb10fbfc04674b"
+    },
+    "2016/12/30/a-plain-markdown-post/index.html": {
+      "checksum": "ab6144ffd65c49b3915e6228d4134a54"
+    },
+    "2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png": {
+      "checksum": "05d12c5c5a2ba6b25f0b89468b3c07e6"
+    },
+    "2020/12/01/hello-r-markdown/index.html": {
+      "checksum": "c8e52a8cb09fa498d4a3a510a1dc77ff"
+    },
+    "about/index.html": {
+      "checksum": "be255f993353982fae789676f51c0377"
+    },
+    "categories/index.html": {
+      "checksum": "cabd9f7beeaeef8b065f6ef989f47d94"
+    },
+    "categories/index.xml": {
+      "checksum": "3f537ac180dffb0825da592a1d29ca28"
+    },
+    "categories/r/index.html": {
+      "checksum": "608107d151921988407238a6bec763dc"
+    },
+    "categories/r/index.xml": {
+      "checksum": "87ec6ac948e6b0c15e34d553a3456ce5"
+    },
+    "css/fonts.css": {
+      "checksum": "cc6945156b9b819ed64963c9f5fbf877"
+    },
+    "css/main.css": {
+      "checksum": "99ca91484e094e1b27589601d7e09505"
+    },
+    "favicon.ico": {
+      "checksum": "13eff22c250a450812b3951974e5371e"
+    },
+    "fonts/lato-v11-latin-regular.woff": {
+      "checksum": "f137ee4862785a1518fb3056eccdc99b"
+    },
+    "fonts/lato-v11-latin-regular.woff2": {
+      "checksum": "6748e0e1c0bef825e16c649fd2ad5691"
+    },
+    "fonts/merriweather-v13-latin-regular.woff": {
+      "checksum": "c72b4054b6ba795e21b1a8c87f70d441"
+    },
+    "fonts/merriweather-v13-latin-regular.woff2": {
+      "checksum": "977e17ee574cbf40b9d09686c7cc267d"
+    },
+    "images/hugo-logo.png": {
+      "checksum": "42f189af76837c49edd92c258702d89f"
+    },
+    "images/logo.png": {
+      "checksum": "62bcbc03fa3810678452164a5887ee11"
+    },
+    "index.html": {
+      "checksum": "4aa93d757273a728a546b8cc371a454f"
+    },
+    "index.xml": {
+      "checksum": "f5eaa26aabc9e4b519931e2facd04f0a"
+    },
+    "js/math-code.js": {
+      "checksum": "d88ebfa840322f1e9b4089b7aa3a9341"
+    },
+    "post/index.html": {
+      "checksum": "8f49402a44331efc13e37b3fce3fd67b"
+    },
+    "post/index.xml": {
+      "checksum": "4335533256cc5219514189658f08c08a"
+    },
+    "sitemap.xml": {
+      "checksum": "febaf15a3b22d22d1151053a46ab370b"
+    },
+    "tags/index.html": {
+      "checksum": "5933ffe5226babeb40f058984347bd7b"
+    },
+    "tags/index.xml": {
+      "checksum": "f557ebd93c3975d5d6a5e3406a525071"
+    },
+    "tags/plot/index.html": {
+      "checksum": "91b788de970962d3e09edd9b5bf068f3"
+    },
+    "tags/plot/index.xml": {
+      "checksum": "60c38523e3c61849735c61b44215be29"
+    },
+    "tags/r-markdown/index.html": {
+      "checksum": "6866329d3afd7851d51dbb15fa2a931f"
+    },
+    "tags/r-markdown/index.xml": {
+      "checksum": "5bc278fae29702bc2344bf558821a702"
+    },
+    "tags/regression/index.html": {
+      "checksum": "2ffb483005260e771ec27768089447be"
+    },
+    "tags/regression/index.xml": {
+      "checksum": "f6318a9a1833529638e5581b8ba27888"
+    }
+  },
+  "users": null
+}
